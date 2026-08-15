@@ -1,0 +1,3 @@
+# Plans
+
+This folder contains optional project plans and timelines.
